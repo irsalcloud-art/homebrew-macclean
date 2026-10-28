@@ -8,7 +8,7 @@ Homebrew tap for [MacClean](https://github.com/irsalcloud-art/Clean_mac), a stor
 brew install irsalcloud-art/macclean/macclean
 ```
 
-The formula installs the universal (arm64 + x86_64) release binary, pinned to the SHA-256 published in the release's `SHA256SUMS`. Homebrew needs up-to-date Command Line Tools to install it.
+The formula installs the universal (arm64 + x86_64) release binary, pinned to the SHA-256 published in the release's `SHA256SUMS`. It requires macOS 15 (Sequoia) or later, the minimum MacClean supports, and Homebrew needs up-to-date Command Line Tools to install it.
 
 ## Uninstall
 
